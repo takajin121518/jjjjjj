@@ -1,1 +1,1 @@
-# techacademymagazine
+$ git remote rename [jjjjjj] [techacademymagazine]
