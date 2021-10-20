@@ -1,1 +1,1 @@
-# jjjjjj
+# techacademymagazine
